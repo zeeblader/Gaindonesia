@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+## EXTRA 191
 
-You can use the [editor on GitHub](https://github.com/zeeblader/Gaindonesia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+WELCOME TO THIS WEBSITE! 
+on this website we can learn how to use BADAK on PuTTY and in this website  also explained how to install putty and how to use it
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Badak introdution
+???
 
-### Markdown
+### About PuTTY and installation
+![PuTTY logo](https://static.thegeekstuff.com/wp-content/uploads/2008/08/putty.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+PuTTY is a free and open-source terminal emulator, serial console and network file transfer application. It supports several network protocols, including SCP, SSH, Telnet, rlogin, and raw socket connection. It can also connect to a serial port.
 
-```markdown
-Syntax highlighted code block
+for more information you can click [here](https://en.wikipedia.org/wiki/PuTTY)
 
-# Header 1
-## Header 2
-### Header 3
+Installation : 
+???
 
-- Bulleted
-- List
+![JOJO](https://i.kym-cdn.com/photos/images/newsfeed/001/026/838/cc4.jpeg)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zeeblader/Gaindonesia/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+[documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) 
