@@ -1,6 +1,6 @@
 # MON, 2019-07-01 15:06
 
-===
+---
 
 what happen in 2 days before and yesterday:
 1. planning with team about the prototype we doing together
@@ -10,4 +10,4 @@ what to do today :
 1. reading and learning again about this website : https://startbootstrap.com/guides/how-to-create-a-website-with-github-pages/
 2. downloading the github desktop
 
-===
+---
