@@ -9,6 +9,7 @@ silahkan klik link yang ada di bawah ini untuk mempelajari lebih lanjut
 ---
 
 ### Daftar Link
+* [Apa Itu BADAK?](link/apa-itu-badak.md)
 
 
 
